@@ -1,7 +1,6 @@
 body {
 background-color: #ffa500;
-background-image: linear-gradient(160deg, #ffa500 21%, #ff0000 59%, #e2ff00 90%);
-background-repeat: no-repeat;
+background-repeat: space;
 }
 .login_div1 , .login_div2
 	{
